@@ -36690,5 +36690,57 @@
   {
     "id": 425827,
     "name": "army"
+  },
+  {
+    "id": 400933,
+    "name": "macaws-trapdoors"
+  },
+  {
+    "id": 446253,
+    "name": "better-biome-blend"
+  },
+  {
+    "id": 444384,
+    "name": "neoelfeos-medieval-pub-decoration"
+  },
+  {
+    "id": 492574,
+    "name": "my-server-is-compatible"
+  },
+  {
+    "id": 247661,
+    "name": "taiga-tinkers-alloying-addon"
+  },
+  {
+    "id": 501590,
+    "name": "additional-lanterns"
+  },
+  {
+    "id": 513857,
+    "name": "oauth"
+  },
+  {
+    "id": 381597,
+    "name": "regrowth"
+  },
+  {
+    "id": 435044,
+    "name": "better-third-person"
+  },
+  {
+    "id": 532127,
+    "name": "legendary-tooltips"
+  },
+  {
+    "id": 521932,
+    "name": "medieval-music"
+  },
+  {
+    "id": 510656,
+    "name": "wireless-chargers"
+  },
+  {
+    "id": 486778,
+    "name": "fix-experience-bug"
   }
 ]
